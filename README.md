@@ -1,2 +1,2 @@
 # AutomatedSoftwareTest
-Just practice
+Automated software testing for the backend of a blog app.
